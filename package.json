@@ -30,14 +30,14 @@
     "vuex": "^3.5.1"
   },
   "devDependencies": {
-    "copy-webpack-plugin": "^6.1.0",
+    "copy-webpack-plugin": "^7.0.0",
     "css-loader": "^4.2.2",
     "style-loader": "^1.2.1",
     "url-loader": "^4.1.0",
     "vue-loader": "^15.9.3",
     "vue-template-compiler": "^2.6.12",
-    "webpack": "^4.44.1",
+    "webpack": "^5.1.1",
     "webpack-cli": "^3.3.12",
-    "webpack-dev-server": "^3.11.0"
+    "webpack-dev-server": "^4.8.0"
   }
 }
